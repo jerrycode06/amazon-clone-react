@@ -6,13 +6,15 @@ Try to clone the amazon webapp by using React as a frontend and firebase for aut
 
 Clone the repository in your system and open in your favorite code editor & run :-
 
-```npm install
+```
+npm install
 
 ```
 
 It will install all your dependencies in your system and then run:-
 
-```npm start
+```
+npm start
 
 ```
 
